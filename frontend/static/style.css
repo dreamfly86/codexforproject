@@ -1,0 +1,19 @@
+body {
+  background-image: radial-gradient(circle at 10% 20%, #f3f6ff 0, #f3f6ff 40%, #ffffff 100%);
+}
+
+.summary-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  background: linear-gradient(120deg, #f9fbff, #ffffff);
+  box-shadow: 0 12px 30px rgba(44, 62, 80, 0.06);
+}
+
+.table thead th {
+  color: #6b7280;
+  font-weight: 600;
+}
+
+.table tbody tr:hover {
+  background-color: #f8fafc;
+}
